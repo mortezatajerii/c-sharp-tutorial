@@ -1,4 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
+// See https://aka.ms/new-console-template for more information
 using System;
 
 namespace c_sharp
@@ -14,7 +14,7 @@ namespace c_sharp
             System.Console.Write("Enter angel Between(side A and side B) in degrees: ");
             double angel = Convert.ToDouble(Console.ReadLine());
 
-            // According to Law of cosines c^2 = a^2 + b^2 -2*a*b*(cos θ)
+            // According to Law of cosines c^2 = a^2 + b^2 -( 2*a*b*(cos θ) )
 
             double result = (Math.Pow(aSide, 2)) + (Math.Pow(bSide, 2));
             result -= 2 * aSide * bSide * Math.Cos(Math.PI * angel / 180);
