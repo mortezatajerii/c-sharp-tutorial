@@ -1,0 +1,15 @@
+/home/morteza/Documents/Programming/c_sharp/bin/Debug/net6.0/c_sharp
+/home/morteza/Documents/Programming/c_sharp/bin/Debug/net6.0/c_sharp.deps.json
+/home/morteza/Documents/Programming/c_sharp/bin/Debug/net6.0/c_sharp.runtimeconfig.json
+/home/morteza/Documents/Programming/c_sharp/bin/Debug/net6.0/c_sharp.dll
+/home/morteza/Documents/Programming/c_sharp/bin/Debug/net6.0/ref/c_sharp.dll
+/home/morteza/Documents/Programming/c_sharp/bin/Debug/net6.0/c_sharp.pdb
+/home/morteza/Documents/Programming/c_sharp/obj/Debug/net6.0/c_sharp.csproj.AssemblyReference.cache
+/home/morteza/Documents/Programming/c_sharp/obj/Debug/net6.0/c_sharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/morteza/Documents/Programming/c_sharp/obj/Debug/net6.0/c_sharp.AssemblyInfoInputs.cache
+/home/morteza/Documents/Programming/c_sharp/obj/Debug/net6.0/c_sharp.AssemblyInfo.cs
+/home/morteza/Documents/Programming/c_sharp/obj/Debug/net6.0/c_sharp.csproj.CoreCompileInputs.cache
+/home/morteza/Documents/Programming/c_sharp/obj/Debug/net6.0/c_sharp.dll
+/home/morteza/Documents/Programming/c_sharp/obj/Debug/net6.0/ref/c_sharp.dll
+/home/morteza/Documents/Programming/c_sharp/obj/Debug/net6.0/c_sharp.pdb
+/home/morteza/Documents/Programming/c_sharp/obj/Debug/net6.0/c_sharp.genruntimeconfig.cache
