@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/morteza/Documents/Programming/c-sharp-test/stone-paper-scissors/stone-paper-scissors.csproj": {}
+  },
+  "projects": {
+    "/home/morteza/Documents/Programming/c-sharp-test/stone-paper-scissors/stone-paper-scissors.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/morteza/Documents/Programming/c-sharp-test/stone-paper-scissors/stone-paper-scissors.csproj",
+        "projectName": "stone-paper-scissors",
+        "projectPath": "/home/morteza/Documents/Programming/c-sharp-test/stone-paper-scissors/stone-paper-scissors.csproj",
+        "packagesPath": "/home/morteza/.nuget/packages/",
+        "outputPath": "/home/morteza/Documents/Programming/c-sharp-test/stone-paper-scissors/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/morteza/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.8, 6.0.8]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.108/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

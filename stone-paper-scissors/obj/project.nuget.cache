@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WmY0t+OjyDLHYyZgDiAhn5yVnbaACpxJxUPA2wnr4kuRBbUdqcTnqTybvG5Loaquiu0DC474DsM8ujoT9zY2gQ==",
+  "success": true,
+  "projectFilePath": "/home/morteza/Documents/Programming/c-sharp-test/stone-paper-scissors/stone-paper-scissors.csproj",
+  "expectedPackageFiles": [
+    "/home/morteza/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.8/microsoft.aspnetcore.app.ref.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
