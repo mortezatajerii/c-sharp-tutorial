@@ -20,7 +20,7 @@ namespace c_sharp
             result -= 2 * aSide * bSide * Math.Cos(Math.PI * angel / 180);
             result = Math.Sqrt(result);
 
-            System.Console.WriteLine($"\nResult = {Math.Round(result, 2)}");
+            System.Console.WriteLine($"\nResult is [{Math.Round(result, 2)}]");
         }
     }
 }
