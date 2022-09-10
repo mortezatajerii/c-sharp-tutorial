@@ -1,2 +1,1 @@
-add first line for learning how to use git flow in use
 add second line for learning how to use release branch 
